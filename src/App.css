@@ -1,0 +1,37 @@
+body{
+    color:rgb(255, 237, 237);
+    background-color: rgb(27, 8, 8);
+}
+
+.card-body{
+    background-color: rgb(19, 0, 0);
+    color: rgb(255, 237, 237);
+}
+
+.col{
+    padding: 0;
+}
+
+#MainNewsComp{
+    margin-top: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#mainhead{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+@media screen and (max-width:800px){
+    #mainhead{
+        font-size: 40px;
+    }
+    #MainNewsComp{
+        justify-content: center;
+    }
+}
+
+.nav-item{
+    margin-right: 15px;
+}
