@@ -38,7 +38,9 @@ The user can read news from whatever category they like simply by clicking on th
 
 **Newsify** is fully responsive, meaning that it can be accessed on any device, of any dimensions, and the user experience would still be absolutely amazing.
 
-<img src="Screenshots/Responsive_Phone.png" alt="Responsive_Phone" width="300" >
-<img align='top' src="Screenshots/Responsive_Nest_Hub_Max.png" alt="Responsive_Phone" width="600" >
+<img src="Screenshots/Responsive_Phone.png" alt="Responsive_Phone" width="260" >
+<img align='top' src="Screenshots/Responsive_Nest_Hub_Max.png" alt="Responsive_Phone" width="500" >
 
 ## License
+
+Newsify is released under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the software.
