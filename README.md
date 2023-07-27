@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Newsify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**A news app built using ReactJS, Bootstrap and NewsAPI**
 
-## Available Scripts
+Newsify is a News Web App, where user can view the news based on different categories which are:
 
-In the project directory, you can run:
+- General
+- Business
+- Entertainment
+- Health
+- Science
+- Sports
+- Technology
 
-### `npm start`
+## Home Page | General
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![General](/Screenshots/General1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technology
 
-### `npm test`
+![Technology](/Screenshots/Technology1.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If the user wants to read the complete news, they can simply click on the `Read More` button, which will redirect them to the website where the news is being fetched from.
 
-### `npm run build`
+For Example, if the user clicked on the `Read More` button on the *Google Photos App* news, they'll be redirected to this page:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![RedirectTech](/Screenshots/RedirectTech1.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The user can read news from whatever category they like simply by clicking on the different categories mentioned on the navbar.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Infinite Scroll
 
-### `npm run eject`
+**Newsify** features infinite scroll, which means the user can keep on scrolling the news page, and more news will continue to load until no more news on the particular category is left.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![InfiniteScroll](/Screenshots/Health_Scroll1.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Fully Responsive
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Newsify** is fully responsive, meaning that it can be accessed on any device, of any dimensions, and the user experience would still be absolutely amazing.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img src="Screenshots/Responsive_Phone.png" alt="Responsive_Phone" width="300" >
+<img align='top' src="Screenshots/Responsive_Nest_Hub_Max.png" alt="Responsive_Phone" width="600" >
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
