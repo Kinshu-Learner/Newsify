@@ -38,8 +38,8 @@ The user can read news from whatever category they like simply by clicking on th
 
 **Newsify** is fully responsive, meaning that it can be accessed on any device, of any dimensions, and the user experience would still be absolutely amazing.
 
-<img src="Screenshots/Responsive_Phone.png" alt="Responsive_Phone" width="200" >
-<img align='top' src="Screenshots/Responsive_Nest_Hub_Max.png" alt="Responsive_Phone" width="500" >
+<span align='left'><img src="Screenshots/Responsive_Phone.png" alt="Responsive_Phone" width="200" ></span>
+<span align='right'><img align='top' src="Screenshots/Responsive_Nest_Hub_Max.png" alt="Responsive_Phone" width="500" ></span>
 
 ## License
 
